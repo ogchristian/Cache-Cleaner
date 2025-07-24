@@ -146,11 +146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ChristianPC\\source\\repos\\CacheCleaner\\CacheCleaner\\CacheCleaner.csproj",
+      "projectUniqueName": "C:\\Users\\ChristianPC\\Documents\\GitHub\\Cache-Cleaner\\CacheCleaner\\CacheCleaner.csproj",
       "projectName": "CacheCleaner",
-      "projectPath": "C:\\Users\\ChristianPC\\source\\repos\\CacheCleaner\\CacheCleaner\\CacheCleaner.csproj",
+      "projectPath": "C:\\Users\\ChristianPC\\Documents\\GitHub\\Cache-Cleaner\\CacheCleaner\\CacheCleaner.csproj",
       "packagesPath": "C:\\Users\\ChristianPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ChristianPC\\source\\repos\\CacheCleaner\\CacheCleaner\\obj\\",
+      "outputPath": "C:\\Users\\ChristianPC\\Documents\\GitHub\\Cache-Cleaner\\CacheCleaner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

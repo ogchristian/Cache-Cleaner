@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EOnESAKZRr8=",
+  "dgSpecHash": "RncuUKAW1NU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ChristianPC\\source\\repos\\CacheCleaner\\CacheCleaner\\CacheCleaner.csproj",
+  "projectFilePath": "C:\\Users\\ChristianPC\\Documents\\GitHub\\Cache-Cleaner\\CacheCleaner\\CacheCleaner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ChristianPC\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512",
     "C:\\Users\\ChristianPC\\.nuget\\packages\\system.codedom\\9.0.6\\system.codedom.9.0.6.nupkg.sha512",

@@ -1,0 +1,10 @@
+﻿Rebuild started at 3:42 PM...
+1>------ Rebuild All started: Project: CacheCleaner, Configuration: Debug Any CPU ------
+Restored C:\Users\ChristianPC\source\repos\CacheCleaner\CacheCleaner\CacheCleaner.csproj (in 14 ms).
+1>C:\Users\ChristianPC\source\repos\CacheCleaner\CacheCleaner\MainForm.cs(16,27,16,35): warning CS8618: Non-nullable property 'DataType' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.
+1>C:\Users\ChristianPC\source\repos\CacheCleaner\CacheCleaner\MainForm.cs(18,27,18,31): warning CS8618: Non-nullable property 'Path' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.
+1>C:\Users\ChristianPC\source\repos\CacheCleaner\CacheCleaner\MainForm.cs(48,30,48,43): warning CS8622: Nullability of reference types in type of parameter 'sender' of 'void MainForm.button1_Click(object sender, EventArgs e)' doesn't match the target delegate 'EventHandler' (possibly because of nullability attributes).
+1>CacheCleaner -> C:\Users\ChristianPC\source\repos\CacheCleaner\CacheCleaner\bin\Debug\net8.0-windows\CacheCleaner.dll
+1>Done building project "CacheCleaner.csproj".
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+========== Rebuild completed at 3:42 PM and took 02.795 seconds ==========
